@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/blob/main/github%20banner.jpg)
 <h1 align="center">👋 Hey Folks! I'm Tanzeebul Tamim, from Bangladesh</h1>
 <h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
 
@@ -9,8 +10,7 @@
 
 - 🌱 I’m currently learning ***Typescript and Express.js***
 
-- 👨‍💻 My most favorite project ***[https://pmbia-55816.web.app/]***(https://pmbia-55816.web.app/)
-
+- 👨‍💻 My most favorite project ***https://pmbia-55816.web.app/***
 - 📫 How to reach me ***tamim2000@gmail.com***
 
 - ⚡ Fun fact: ***I am a Mountain Biking Freak 🚵***
