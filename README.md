@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeebul-tamim" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tanzeebul" target="blank"><img src="https://img.shields.io/twitter/follow/tanzeebul?logo=twitter&style=for-the-badge" alt="tanzeebul" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="tanzeebul" /></a> </p>
 
 - 🌱 I’m currently learning ***Typescript and Express.js***
 
