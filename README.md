@@ -57,6 +57,11 @@
  </p>
 
 <br>
+<br>
+
+<hr>
+<h3 align="center">📈 My Stats 📊</h3>
+<hr>
 
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=transparent&show_icons=true&locale=en&layout=compact" alt="tanzeebul-tamim" /></p>
