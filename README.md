@@ -61,7 +61,7 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=transparent&show_icons=true&locale=en&layout=compact" alt="tanzeebul-tamim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&theme=transparent&show_icons=true&locale=en" alt="tanzeebul-tamim" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&theme=transparent&show_icons=true&locale=en" alt="tanzeebul-tamim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=transparent&" alt="tanzeebul-tamim" /></p>
 </div>
