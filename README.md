@@ -1,7 +1,7 @@
 ![logo](https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/blob/main/github%20banner.jpg)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+Folks!+👋;I'm+Tanzeebul+Tamim;From+Bangladesh;Nice+to+meet+you!&center=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+Folks!+👋;I'm+Tanzeebul+Tamim;From+Bangladesh;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
