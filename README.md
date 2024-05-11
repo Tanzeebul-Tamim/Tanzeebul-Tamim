@@ -1,4 +1,4 @@
-![logo](./Github%20Banner.jpg)
+![logo](https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/blob/main/github%20banner.jpg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
