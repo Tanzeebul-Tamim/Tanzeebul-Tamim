@@ -1,4 +1,5 @@
-![logo](https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/blob/main/github%20banner.jpg)
+![logo](./Github%20Banner.jpg)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+Folks!+👋;I'm+Tanzeebul+Tamim;From+Bangladesh;Nice+to+meet+you!&center=true&size=30">
@@ -9,24 +10,21 @@
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
-
 [![Profile views](https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat)](https://github.com/tanzeebul-tamim)
 &nbsp; <!-- This adds a non-breaking space for spacing -->
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=DB4437&logo=gmail&logoColor=ffffff)](mailto:tamim200091@gmail.com)
-
 
 <p align="left">
 <a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="tanzeebul" /></a>
 </p>
 
-
-- 🌱 I’m currently learning ***<code><a href="https://www.typescriptlang.org/">Typescript</a></code> and <code><a href="https://expressjs.com/">Express.js</a></code>***
+- 🌱 I’m currently learning **_<code><a href="https://www.typescriptlang.org/">Typescript</a></code> and <code><a href="https://expressjs.com/">Express.js</a></code>_**
 
 - 👨‍💻 My most favorite project ***https://pmbia-55816.web.app/***
 
 - 📫 How to reach me ***tamim2000@gmail.com***
 
-- ⚡ Fun fact: ***I am a Mountain Biking Freak 🚵***
+- ⚡ Fun fact: **_I am a Mountain Biking Freak 🚵_**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
