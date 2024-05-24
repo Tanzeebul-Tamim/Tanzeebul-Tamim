@@ -40,7 +40,7 @@
 <br>
 
 <hr>
-<h3 align="center">Languages, Frameworks and Tools</h3>
+<h3 align="center">🖥️ Languages 📚 Frameworks 📑 Tools ⚙️</h3>
 <hr>
 <p align="center"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/babel-icon-2048x2048-pbssk77l.png" alt="babel" width="40" height="40" title="Babel"/></a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/012/697/297/non_2x/3d-bootstrap-programming-framework-logo-free-png.png" alt="bootstrap" width="40" height="40" title="Bootstrap"/></a> 
