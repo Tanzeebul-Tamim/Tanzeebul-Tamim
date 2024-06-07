@@ -40,7 +40,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">🖥️ Languages 📚 Frameworks 📑 Tools ⚙️</h3>
+<h3 align="center">🖥️ Tech Stack ⚙️</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -48,104 +48,104 @@
     <tr>
       <td>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" title="HTML5"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/>
         </a> 
       </td>
       <td>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" title="CSS3"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
         </a> 
       </td>
       <td>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://static.vecteezy.com/system/resources/previews/012/697/297/non_2x/3d-bootstrap-programming-framework-logo-free-png.png" alt="bootstrap" width="50" height="50" title="Bootstrap"/>
+          <img src="https://static.vecteezy.com/system/resources/previews/012/697/297/non_2x/3d-bootstrap-programming-framework-logo-free-png.png" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
         </a> 
       </td>
       <td>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" title="Tailwind CSS"/>
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" title="Tailwind CSS"/>
         </a> 
       </td>
       <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" title="JavaScript"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
         </a> 
       </td>
       <td>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" title="TypeScript"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
         </a>
       </td>
       <td>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" title="React"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
         </a> 
       </td>
       <td>
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="nextjs" width="50" height="50" title="Next.js"/>
+          <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="nextjs" width="40" height="40" title="Next.js"/>
         </a> 
       </td>
       <td>
         <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" title="Redux"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
         </a>  
       </td>
       <td>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" title="Node.js"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
         </a> 
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express.js" width="50" height="50" title="Express.js"/>
+          <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express.js" width="40" height="40" title="Express.js"/>
         </a>
       </td>
       <td>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnX8t9HBA1P1pUP1-8uw9NGbJOy_IfLlVovdtBoB4IaenK4CaoTpy7uFDLY4IX0VOr8&usqp=CAU" alt="mongodb" width="50" height="50" title="MongoDB"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnX8t9HBA1P1pUP1-8uw9NGbJOy_IfLlVovdtBoB4IaenK4CaoTpy7uFDLY4IX0VOr8&usqp=CAU" alt="mongodb" width="40" height="40" title="MongoDB"/>
         </a>  
       </td>
       <td>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" title="Postman"/>
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
         </a> 
       </td>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" title="Git"/>
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
         </a>
       </td>
       <td>
         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm" width="50" height="50" title="npm">
+          <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="npm" width="40" height="40" title="npm">
         </a>
       </td>
       <td>
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-          <img src="https://static-00.iconduck.com/assets.00/babel-icon-2048x2048-pbssk77l.png" alt="babel" width="50" height="50" title="Babel"/>
+          <img src="https://static-00.iconduck.com/assets.00/babel-icon-2048x2048-pbssk77l.png" alt="babel" width="40" height="40" title="Babel"/>
         </a>
       </td>
       <td>
         <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-          <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" alt="Java" width="50" height="50" title="Java">
+          <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" alt="Java" width="40" height="40" title="Java">
         </a>
       </td>
       <td>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
         </a>
       </td>
       <td>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="50" height="50" title="Visual Studio Code">
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="40" height="40" title="Visual Studio Code">
         </a>
       </td>
       <td>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-          <img src="https://w7.pngwing.com/pngs/207/785/png-transparent-photoshop-cc-hd-logo-thumbnail.png" alt="photoshop" width="50" height="50" title="Photoshop"/>
+          <img src="https://w7.pngwing.com/pngs/207/785/png-transparent-photoshop-cc-hd-logo-thumbnail.png" alt="photoshop" width="40" height="40" title="Photoshop"/>
         </a> 
       </td>
     </tr>
