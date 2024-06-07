@@ -181,8 +181,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeebul-tamim&theme=gotham"/>
     <br>
     <br>
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=gotham&utcOffset=8" alt="tanzeebul-tamim" />
-    &nbsp;&nbsp;&nbsp;
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzeebul-tamim&theme=gotham" alt="tanzeebul-tamim" />
+    &nbsp;&nbsp;&nbsp;
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=gotham&utcOffset=8" alt="tanzeebul-tamim" />
   </div>
 </div>
