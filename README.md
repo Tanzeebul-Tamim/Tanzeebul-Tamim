@@ -160,17 +160,17 @@
   <h3>📈 My Stats 📊</h3>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=gotham&" alt="tanzeebul-tamim" />
+  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=dark&hide_border=true" alt="tanzeebul-tamim" />
   &nbsp;
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&theme=gotham&show_icons=true&locale=en" alt="tanzeebul-tamim" />
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&theme=dark&show_icons=true&locale=en&hide_border=true" alt="tanzeebul-tamim" />
   <br>
   <br>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzeebul-tamim&theme=gotham" alt="tanzeebul-tamim" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzeebul-tamim&theme=dark" alt="tanzeebul-tamim" />
   &nbsp;
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=gotham&utcOffset=8" alt="tanzeebul-tamim" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=dark&utcOffset=8" alt="tanzeebul-tamim" />
   <br>
   <br>
-  <img width="380em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=gotham&show_icons=true&locale=en&layout=donut&langs_count=10" alt="tanzeebul-tamim" />
+  <img width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=dark&show_icons=true&locale=en&layout=donut&langs_count=10&hide_border=true" alt="tanzeebul-tamim" />
   
   <br>
   <br>
