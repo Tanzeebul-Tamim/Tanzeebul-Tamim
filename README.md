@@ -179,10 +179,7 @@
   <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeebul-tamim&theme=gotham"/>
-    <br>
-    <br>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzeebul-tamim&theme=gotham" alt="tanzeebul-tamim" />
-    &nbsp;&nbsp;&nbsp;
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=gotham&utcOffset=8" alt="tanzeebul-tamim" />
   </div>
 </div>
