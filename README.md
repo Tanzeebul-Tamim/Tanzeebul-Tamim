@@ -160,13 +160,22 @@
   <h3>📈 My Stats 📊</h3>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=react&hide_border=true" alt="tanzeebul-tamim" />
-  &nbsp;
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en" alt="tanzeebul-tamim" />
-  <br>
-  <br>
-  <img width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" alt="tanzeebul-tamim" />
-  
+  <p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true" alt="zarif007" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
+    </a>
+  </div>
+</p>
   <br>
   <br>
   <br>
