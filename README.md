@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" width="450" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 [![Profile views](https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat)](https://github.com/tanzeebul-tamim)
 &nbsp;
@@ -26,14 +26,14 @@
 
 - 📫 How to reach me ***tamim2000@gmail.com***
 
-- ⚡ Fun fact: **_I am a_** -
-  - **_🚵 Mountain Biking Freak 🚴‍♀️_**:
-  <img src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/d39e2385-c5cb-4b64-9cf1-9be9080d91a3" width="250" height="250">
+- ⚡ Fun fact:
+  - <p><strong><em>I'm a 🚵 Mountain Biking Freak 🚴‍♀️ and a 🧩 Speed Cuber 🧊</em></strong></p>
+  <p>
+    <img align="left" src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/3d9f17a9-727d-49b8-914e-c850480df112" width="250">
+    <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/121741529/339659331-cde643c6-1b0d-4380-9591-3a288842f43c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240614T063609Z&X-Amz-Expires=300&X-Amz-Signature=8e786c5ca5a6f390861e4aa0bc865c753df1e9d59db0f3dd6ada6dd09ac92471&X-Amz-SignedHeaders=host&actor_id=121741529&key_id=0&repo_id=740466660" width="250">
+    <br>
+  </p>
 
-  - **_🧩 Speed Cuber 🧊_**:
-  <img src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/cde643c6-1b0d-4380-9591-3a288842f43c" width="250" height="250">
-
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="30" width="40" /></a>
