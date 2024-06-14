@@ -8,17 +8,21 @@
 
 <h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
 
-<img align="right" width="400" src="./assets/man.gif">
+<br>
 
-[![Profile views](https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat)](https://github.com/tanzeebul-tamim)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=DB4437&logo=gmail&logoColor=ffffff)](mailto:tamim200091@gmail.com)
-&nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Follow-Me!&style=social)](https://twitter.com/tanzeebul)
-
-<p align="left">
-<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="tanzeebul" /></a>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" target="blank"><img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" alt="Profile views" /></a>
+  &nbsp;
+  <a href="mailto:tamim200091@gmail.com"><img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=DB4437&logo=gmail&logoColor=ffffff" alt="Send Mail" /></a>
+  &nbsp;
+  <a href="https://twitter.com/tanzeebul" target="blank"><img src="https://img.shields.io/twitter/follow/100?label=Follow-Me!&style=social" alt="Twitter Follow" /></a>
+  &nbsp;
+    <a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" alt="tanzeebul" /></a>
 </p>
+
+<br>
+
+<img align="right" width="400" src="./assets/man.gif">
 
 - 🌱 **I’m Currently Learning** ***_<code><a href="https://expressjs.com/">Express.js</a></code> and <code><a href="https://www.java.com/en/">Java</a></code>_***
 
