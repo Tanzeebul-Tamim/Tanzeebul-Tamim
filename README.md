@@ -26,7 +26,13 @@
 
 - 📫 How to reach me ***tamim2000@gmail.com***
 
-- ⚡ Fun fact: **_I am a Mountain Biking Freak 🚵_**
+- ⚡ Fun fact: **_I am a_** -
+  - **_🚵 Mountain Biking Freak 🚴‍♀️_**:
+  <img src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/d39e2385-c5cb-4b64-9cf1-9be9080d91a3" width="250" height="250">
+
+  - **_🧩 Speed Cuber 🧊_**:
+  <img src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/cde643c6-1b0d-4380-9591-3a288842f43c" width="250" height="250">
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
