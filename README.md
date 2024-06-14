@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
 
-<img align="right" width="450" src="./assets/man.gif">
+<img align="right" width="400" src="./assets/man.gif">
 
 [![Profile views](https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat)](https://github.com/tanzeebul-tamim)
 &nbsp;
@@ -36,11 +36,11 @@
   <div align="right">
     <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="45" width="60" /></a>
-<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="45" width="60" /></a>
-<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="45" width="60" /></a>
-<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="45" width="60" /></a>
-<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="45" width="60" /></a>
+<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="36" width="48" /></a>
+<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="36" width="48" /></a>
+<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="36" width="48" /></a>
+<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="36" width="48" /></a>
+<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="36" width="48" /></a>
 </p>
   </div>
 
