@@ -26,13 +26,14 @@
 
 - 📫 How to reach me ***tamim2000@gmail.com***
 
-- ⚡ Fun fact:
-  - <p><strong><em>I'm a 🚵 Mountain Biking Freak 🚴‍♀️ and a 🧩 Speed Cuber 🧊</em></strong></p>
-  <p>
-    <img align="left" src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/3d9f17a9-727d-49b8-914e-c850480df112" width="250">
-    <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/121741529/339659331-cde643c6-1b0d-4380-9591-3a288842f43c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240614T063609Z&X-Amz-Expires=300&X-Amz-Signature=8e786c5ca5a6f390861e4aa0bc865c753df1e9d59db0f3dd6ada6dd09ac92471&X-Amz-SignedHeaders=host&actor_id=121741529&key_id=0&repo_id=740466660" width="250">
-    <br>
-  </p>
+- ⚡ Fun fact: ***I'm a -***
+  - <p><strong><em>🚵 Mountain Biking Freak 🚴‍♀️</em></strong></p>
+    <img src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/3d9f17a9-727d-49b8-914e-c850480df112" width="250">
+    
+  - <p><strong><em>🧩 Speed Cuber 🧊</em></strong></p>
+    <img src="https://github.com/Tanzeebul-Tamim/Tanzeebul-Tamim/assets/121741529/a3693195-32d2-4917-881f-b7703b8d6161" width="250">
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
