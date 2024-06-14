@@ -32,6 +32,7 @@
     
   - <p><strong><em>🧩 Speed Cuber 🧊</em></strong></p>
     <img align="left" src="./assets/cube.gif" width="250">
+    <br>
   <div align="right">
     <h3 align="right">Connect with me:</h3>
 <p align="right">
@@ -43,6 +44,7 @@
 </p>
   </div>
 
+<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
