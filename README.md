@@ -20,21 +20,21 @@
 <a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="tanzeebul" /></a>
 </p>
 
-- 🌱 I’m currently learning **_<code><a href="https://expressjs.com/">Express.js</a></code> and <code><a href="https://www.java.com/en/">Java</a></code>_**
+- 🌱 **I’m Currently Learning** ***_<code><a href="https://expressjs.com/">Express.js</a></code> and <code><a href="https://www.java.com/en/">Java</a></code>_***
 
-- 👨‍💻 My most favorite project ***https://pmbia-55816.web.app/***
+- 👨‍💻 **Visit My Most Favorite Project** ***[Here](https://pmbia-55816.web.app/)***
 
-- 📫 How to reach me ***tamim2000@gmail.com***
+- 📫 **Contact Me** ***tamim2000@gmail.com***
 
-- ⚡ Fun fact: ***I'm a -***
-  - <p><strong><em>🚵 Mountain Bike / Street Trials Freak 🚴‍♀️</em></strong></p>
+- ⚡ **Fun Fact:**
+  - <p><strong>I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</strong></p>
     <img src="./assets/mtb.gif" width="250">
     
-  - <p><strong><em>🧩 Speed Cuber 🧊</em></strong></p>
+  - <p><strong>I'm a <em>Speed Cuber</em> 🧩🧊</strong></p>
     <img align="left" src="./assets/cube.gif" width="250">
     <br>
   <div align="right">
-    <h3 align="right">Connect with me:</h3>
+    <h3 align="right"><strong><em>Connect with me</em></strong></h3>
 <p align="right">
 <a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="36" width="48" /></a>
 <a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="36" width="48" /></a>
