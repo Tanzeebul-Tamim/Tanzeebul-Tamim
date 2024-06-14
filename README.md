@@ -8,8 +8,6 @@
 
 <h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
 
-<br>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" target="blank"><img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" alt="Profile views" /></a>
   &nbsp;
