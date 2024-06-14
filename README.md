@@ -31,18 +31,17 @@
     <img src="./assets/mtb.gif" width="250">
     
   - <p><strong><em>🧩 Speed Cuber 🧊</em></strong></p>
-    <img src="./assets/cube.gif" width="250">
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="30" width="40" /></a>
-<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="30" width="40" /></a>
+    <img align="left" src="./assets/cube.gif" width="250">
+  <div align="right">
+    <h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="45" width="60" /></a>
+<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="45" width="60" /></a>
+<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="45" width="60" /></a>
+<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="45" width="60" /></a>
+<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="45" width="60" /></a>
 </p>
+  </div>
 
 <br>
 
