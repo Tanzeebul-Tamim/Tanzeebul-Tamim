@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" width="500" src="./assets/man.gif">
+<img align="right" width="450" src="./assets/man.gif">
 
 - 🌱 **I’m Currently Learning** ***_<code><a href="https://expressjs.com/">Express.js</a></code> and <code><a href="https://www.java.com/en/">Java</a></code>_***
 
@@ -33,13 +33,13 @@
 - ⚡ **Beyond Coding:**
   - <p><strong>I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</strong></p>
   
-    I love mountain biking and performing MTB freestyle tricks. It's a fun way to stay active and push my limits. Feel free to check out my YouTube channel where I share my freestyles and tricks! <br> ***[My YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)***
+    I love mountain biking and performing MTB freestyle tricks. Check out my YouTube channel where I share my freestyles and tricks! <br> ***[My YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)***
 
     <img src="./assets/mtb.gif" width="250">
     
   - <p><strong>I'm a <em>Speed Cuber</em> 🧩🧊</strong></p>
 
-    I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 7x7, as well as square one, pyraminx, megaminx, skewb, mirror cube, and ghost cube. It's a fantastic way to keep my mind sharp and constantly challenge myself.
+    I'm also into speed cubing. I can solve the regular 3x3 cube <br> in under 15 seconds and enjoy tackling a variety of other cubes.
   
     <img align="left" src="./assets/cube.gif" width="250">
     <br>
