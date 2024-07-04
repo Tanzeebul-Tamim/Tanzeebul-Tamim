@@ -33,13 +33,13 @@
 - ⚡ **Beyond Coding:**
   - <p><strong>I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</strong></p>
   
-    I love mountain biking and performing MTB freestyle tricks. Check out my YouTube channel where I share my freestyles and tricks! <br> ***[My YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)***
+    I love mountain biking and performing MTB freestyle tricks. Check out my ***[YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)*** where I share my freestyles and tricks!
 
     <img src="./assets/mtb.gif" width="250">
     
   - <p><strong>I'm a <em>Speed Cuber</em> 🧩🧊</strong></p>
 
-    I'm also into speed cubing. I can solve the regular 3x3 cube <br> in under 15 seconds and enjoy tackling a variety of other cubes.
+    I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, <br> and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
   
     <img align="left" src="./assets/cube.gif" width="250">
     <br>
