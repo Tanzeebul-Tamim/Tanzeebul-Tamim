@@ -126,6 +126,29 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3>📈 My Stats 📊</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true" alt="tanzeebul-tamim github readme streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
+    </a>
+  </div>
+</p>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">🔗 All My Projects 🗂️</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -151,12 +174,15 @@
    - **PMBIA-Professional Mountain Biking Instructors' Association:** A platform for mountain biking enthusiasts to connect, communicate, and learn.
      - **[Client End](https://github.com/Tanzeebul-Tamim/PMBIA-Client)**
      - **[Server End](https://github.com/Tanzeebul-Tamim/PMBIA-Server)**
+       
    - **Fluffy Friends:** A soft toy market place.
      - **[Client End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client)**
      - **[Server End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Server)**
+       
    - **The Bengal Chefs' Pantry:** Showcases top chef recipes and a curated selection of Bengali cuisine.
      - **[Client End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client)**
      - **[Server End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server)**
+       
    - **[UniMate-University Management System](https://github.com/Tanzeebul-Tamim/UniMate-UMS):** Showcases the core functionalities of a university management system.
    - **[E-commerce API](https://github.com/Tanzeebul-Tamim/TS_Mongoose_E-commerce_API):** A TypeScript based e-commerce backend with Express, Mongoose and MongoDB.
    - **[Simple Tally Counter](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter):** A simple tally counter made by typescript react along with redux for state management.
@@ -176,31 +202,7 @@
 <br>
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h3>📈 My Stats 📊</h3>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true" alt="tanzeebul-tamim github readme streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
-    </a>
-  </div>
-</p>
-  <br>
-  <br>
-  <br>
-  
+<div align="center"> 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   <h3>💻 Activity 📝</h3>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
