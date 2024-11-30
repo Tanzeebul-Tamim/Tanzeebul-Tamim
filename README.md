@@ -163,12 +163,12 @@
 ---
 
 ### 1. University Coursework
-   - **[CSE 110-Programming Language 1](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):** Introductory programming course on the **Fundamentals of Computation**, taught with **Python**.
-   - **[CSE 111-Programming Language 2](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024):** Introductory programming course on **Object Oriented Programming**, taught with **Java**.
+   - **[CSE 110-Programming Language 1:](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023)** Introductory programming course on the ***Fundamentals of Computation***, taught with ***Python***.
+   - **[CSE 111-Programming Language 2:](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024)** Introductory programming course on ***Object Oriented Programming***, taught with ***Java***.
 
 ### 2. Java Projects
-   - **[Assignment Compiler-File Merge Tool](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):** Automates the creation of properly formatted coding assignment files for **CSE111**.
-   - **[Age of The Evil Emperor](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):** A Java-Based Text RPG Game.
+   - **[Assignment Compiler-File Merge Tool:](https://github.com/Tanzeebul-Tamim/Assignment-Compiler)** Automates the creation of properly formatted coding assignment files for ***CSE111***.
+   - **[Age of The Evil Emperor:](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor)** A ***Java-Based Text RPG*** (Role Playing Game).
 
 ### 3. Web Development
    - **PMBIA-Professional Mountain Biking Instructors' Association:** A platform for mountain biking enthusiasts to connect, communicate, and learn.
@@ -183,20 +183,21 @@
      - **[Client End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client)**
      - **[Server End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server)**
        
-   - **[UniMate-University Management System](https://github.com/Tanzeebul-Tamim/UniMate-UMS):** Showcases the core functionalities of a university management system.
-   - **[E-commerce API](https://github.com/Tanzeebul-Tamim/TS_Mongoose_E-commerce_API):** A TypeScript based e-commerce backend with Express, Mongoose and MongoDB.
-   - **[Simple Tally Counter](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter):** A simple tally counter made by typescript react along with redux for state management.
-   - **[Express TypeScript Mongoose Starter Pack](https://github.com/Tanzeebul-Tamim/Express-Mongoose-TS-Starter_Pack):** A starter template for Express.js applications with TypeScript and Mongoose integration.
+   - **[UniMate-University Management System:](https://github.com/Tanzeebul-Tamim/UniMate-UMS)** Showcases the core functionalities of a ***university management system***.
+   - **[E-commerce API:](https://github.com/Tanzeebul-Tamim/TS_Mongoose_E-commerce_API)** A ***TypeScript Based*** e-commerce backend with ***Express***, ***Mongoose*** and ***MongoDB***.
+   - **[Simple Tally Counter:](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter)** A simple tally counter made by ***Typescript-React*** along with ***Redux*** for state management.
+   - **[Express TypeScript Mongoose Starter Pack:](https://github.com/Tanzeebul-Tamim/Express-Mongoose-TS-Starter_Pack)** A ***starter template*** for ***Express.JS*** applications with ***TypeScript*** and 
+     ***Mongoose*** integration.
   
 ### 4. Personal Learning
-   - **[Java Fundamentals](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals):** Notes, practice problems, and code exercises for learning Core and Advanced Java concepts.
-   - **[Typescript Fundamentals](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals):** Notes, practice problems, and code exercises for learning Core and Advanced Typescript concepts.
-   - **[Solving Basic Problems with JavaScript](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving):** Some fundamental JavaScript problems along with their solutions.
-   - **[MongoDB Queries and Aggregation](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes):** Notes, queries, and aggregation pipelines for MongoDB.
+   - **[Java Fundamentals:](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)** Notes, practice problems, and code exercises for learning Core and Advanced ***Java*** concepts.
+   - **[Typescript Fundamentals:](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)** Notes, practice problems, and code exercises for learning Core and Advanced ***Typescript*** concepts.
+   - **[Solving Basic Problems with JavaScript:](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving)** Some fundamental ***JavaScript Problems*** along with their solutions.
+   - **[MongoDB Queries and Aggregation:](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes)** Notes, queries, and ***Aggregation Pipelines*** for ***MongoDB***.
 
 ---
 <p align="center">
-  Each repository is equipped with a README file detailing its purpose and usage. Clone the repositories and follow their README instructions for setup and deployment.
+  Each repository is equipped with a ***README*** file detailing its purpose and usage. Clone the repositories and follow their ***README*** instructions for setup and deployment.
 </p>
 
 <br>
