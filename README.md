@@ -92,6 +92,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
   </a>
+  <br>
+  <br>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express.js" width="40" height="40" title="Express.js"/>
   </a>  
@@ -124,6 +126,52 @@
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">🔗 All My Projects 🗂️</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  This index serves as a one-stop reference to explore the diverse range of projects I've worked on. Each project is categorized for easy navigation, so you can quickly find the ones that interest you the most. 
+</p>
+<p align="center">
+  Although these repositories are primarily for personal use, constructive feedback is always appreciated.
+</p>
+
+---
+
+### 1. University Coursework
+   - **[CSE 110-Programming Language 1](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):** Introductory programming course on the **Fundamentals of Computation**, taught with **Python**.
+   - **[CSE 111-Programming Language 2](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024):** Introductory programming course on **Object Oriented Programming**, taught with **Java**.
+
+### 2. Java Projects
+   - **[Assignment Compiler-File Merge Tool](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):** Automates the creation of properly formatted coding assignment files for **CSE111**.
+   - **[Age of The Evil Emperor](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):** A Java-Based Text RPG Game.
+
+### 3. Web Development
+   - **PMBIA-Professional Mountain Biking Instructors' Association:** A platform for mountain biking enthusiasts to connect, communicate, and learn.
+     - **[Client End](https://github.com/Tanzeebul-Tamim/PMBIA-Client)**
+     - **[Server End](https://github.com/Tanzeebul-Tamim/PMBIA-Server)**
+   - **Fluffy Friends:** A soft toy market place.
+     - **[Client End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client)**
+     - **[Server End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Server)**
+   - **The Bengal Chefs' Pantry:** Showcases top chef recipes and a curated selection of Bengali cuisine.
+     - **[Client End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client)**
+     - **[Server End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server)**
+   - **[UniMate-University Management System](https://github.com/Tanzeebul-Tamim/UniMate-UMS):** Showcases the core functionalities of a university management system.
+   - **[E-commerce API](https://github.com/Tanzeebul-Tamim/TS_Mongoose_E-commerce_API):** A TypeScript based e-commerce backend with Express, Mongoose and MongoDB.
+   - **[Simple Tally Counter](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter):** A simple tally counter made by typescript react along with redux for state management.
+   - **[Express TypeScript Mongoose Starter Pack](https://github.com/Tanzeebul-Tamim/Express-Mongoose-TS-Starter_Pack):** A starter template for Express.js applications with TypeScript and Mongoose integration.
+  
+### 4. Personal Learning
+   - **[Java Fundamentals](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals):** Notes, practice problems, and code exercises for learning Core and Advanced Java concepts.
+   - **[Typescript Fundamentals](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals):** Notes, practice problems, and code exercises for learning Core and Advanced Typescript concepts.
+   - **[Solving Basic Problems with JavaScript](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving):** Some fundamental JavaScript problems along with their solutions.
+   - **[MongoDB Queries and Aggregation](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes):** Notes, queries, and aggregation pipelines for MongoDB.
+
+---
+<p align="center">
+  Each repository is equipped with a README file detailing its purpose and usage. Clone the repositories and follow their README instructions for setup and deployment.
+</p>
 
 <br>
 <br>
