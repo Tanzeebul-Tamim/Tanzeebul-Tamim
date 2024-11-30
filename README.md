@@ -91,9 +91,7 @@
   </a>  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
-  </a>  
-  <br>
-  <br>
+  </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express.js" width="40" height="40" title="Express.js"/>
   </a>  
