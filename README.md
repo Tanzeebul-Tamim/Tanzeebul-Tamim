@@ -95,7 +95,7 @@
   <br>
   <br>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express.js" width="40" height="40" title="Express.js"/>
+    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express.js" width="40" height="40" title="Express.js"/>
   </a>  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnX8t9HBA1P1pUP1-8uw9NGbJOy_IfLlVovdtBoB4IaenK4CaoTpy7uFDLY4IX0VOr8&usqp=CAU" alt="mongodb" width="40" height="40" title="MongoDB"/>
