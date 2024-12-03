@@ -84,7 +84,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
   </a>  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="nextjs" width="40" height="40" title="Next.js"/>
+    <img src="https://www.impekable.com/wp-content/uploads/2023/05/Next_JS-500x500.png" alt="nextjs" width="40" height="40" title="Next.js"/>
   </a>  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
