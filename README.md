@@ -1,5 +1,4 @@
 ![logo](assets/Github-Banner.jpg)
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&size=26&letterSpacing=2px&duration=1800&pause=850&color=22D6F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things;Coding+is+my+art;And+GitHub+is+my+gallery" alt="Typing SVG" /></a>
 </p>
@@ -14,7 +13,7 @@
 <a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="36" width="48" /></a>
 </p>
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 <h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
 
@@ -126,9 +125,57 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">🔗 All My Projects 🗂️</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<details open> 
+  <summary align="center"><h2>📘 My Top Projects</h2></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=PMBIA-Client&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=PMBIA-Server&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats">
+    </a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Tanzeebul-Tamim&repo=Age-of-The-Evil-Emperor&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges">
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Fluffy-Friends-Client&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards">
+    </a>
+    <a href="https://github.com/DenverCoder1/unedit-for-reddit">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Fluffy-Friends-Server&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit">
+    </a>
+    <a href="https://github.com/DenverCoder1/unicode-formatter">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Assignment-Compiler&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="unicode-formatter">
+    </a>
+    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Unimate-UMS&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="latex-gboard-dictionary">
+    </a>
+    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Simple-Tally-Counter&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="minimalistic-wallpaper-collection">
+    </a>
+    <a href="https://github.com/DenverCoder1/table2ascii">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=TS_Mongoose_E-commerce_API&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="table2ascii">
+    </a>
+    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=CSE110-Fall-2023&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="latex-gboard-dictionary">
+    </a>
+    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=CSE111-Summer-Fall-2024&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="minimalistic-wallpaper-collection">
+    </a>
+    <a href="https://github.com/DenverCoder1/table2ascii">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=JAVA-Fundamentals&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="table2ascii">
+    </a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img align alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+---
+<details> 
+  <summary align="center"><h3>🔗 All My Projects 🗂️</h3></summary>
+
+---
 
 <p align="center">
   This index is a comprehensive reference for the diverse range of projects I've worked on. Each project is categorized for <strong>easy navigation</strong>, so you can quickly find the ones that interest you the most. 
@@ -178,25 +225,28 @@
 <p align="center">
   Each repository is equipped with a <strong>README</strong> file detailing its purpose and usage. Simply clone the repositories and follow the provided <strong>README</strong> instructions to set up and run the programs.
 </p>
+</details>
 
-<br/>
-<br/>
-
+---
 <details> 
-  <summary><h2>📈 My Stats & Activity</h2></summary>
+  <summary align="center"><h3>📈 My Stats & Activity</h3></summary>
+  
+  ---
 
+  <span align="left">
   <h3>🔥 Streak Stats</h3>
-  <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanzeebul-Tamim's Github Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true&short_numbers=true"/>
     </a>
-  </p>
+  </span>
 
-  <h3>💻 GitHub Profile Stats</h3>
+<span align="right">
+    <h3>💻 GitHub Profile Stats</h3>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
+</span>
   <br/>
    <h3>💡 My Language Usage at a Glance</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -220,5 +270,4 @@
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=react&utcOffset=8" alt="tanzeebul-tamim" />
   </div>
 </div>
-
 </details>
