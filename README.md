@@ -186,57 +186,33 @@
   <summary><h2>📈 My Stats & Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
   <p>
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true" alt="tanzeebul-tamim github readme streak" />
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanzeebul-Tamim's Github Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true&short_numbers=true"/>
+    </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
- <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+  <br/>
+   <h3>💡 My Language Usage at a Glance</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
+    </a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h3></h3>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true" alt="tanzeebul-tamim github readme streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
-    </a>
-  </div>
-</p>
-
-</div>
-
-<br>
-<br>
+  <b>Note:</b> Top languages is only a metric of the languages <br/> my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+  <br/>
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-  <h3>💻 Activity 📝</h3>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3>⏳ My Productive Hours</h3>
   
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeebul-tamim&theme=react&hide_border=true"/>
+    <img width="800em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeebul-tamim&theme=react&hide_border=true"/>
     <br>
     <br>
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzeebul-tamim&theme=react" alt="tanzeebul-tamim" />
@@ -244,3 +220,5 @@
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=react&utcOffset=8" alt="tanzeebul-tamim" />
   </div>
 </div>
+
+</details>
