@@ -227,7 +227,7 @@
   <br/>
    <h3>💡 My Language Usage at a Glance</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img heigth=35% src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
+      <img heigth=20% src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut-vertical&langs_count=10" />
     </a>
   <br/>
 
