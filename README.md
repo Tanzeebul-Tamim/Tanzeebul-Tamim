@@ -260,7 +260,7 @@
 </p>
 
 <div align="left">
-  <img src="./assets/mtb.gif" width="350"/>
+  <img src="./assets/mtb.gif" width="450"/>
 </div>
 <br/>
 
@@ -273,7 +273,7 @@
 </p>
 
 <div align="right">
-  <img src="./assets/cube.gif" width="350"/>
+  <img src="./assets/cube.gif" width="450"/>
 </div>
 <br/>
 
@@ -284,6 +284,10 @@
 <p align="left">
   I take pride in my ability to type quickly and accurately. I consistently achieve typing speeds of 120-130 words per minute.
 </p>
+
+<div align="left">
+  <img src="./assets/typing.gif" width="450"/>
+</div>
 <br/>
 
 ---
@@ -293,6 +297,10 @@
 <p align="right">
   I enjoy playing chess, solving chess puzzles, and continuously improving my skills. Chess helps sharpen my problem-solving abilities.
 </p>
+
+<div align="right">
+  <img src="./assets/chess.gif" width="350"/>
+</div>
 <br/>
 
 ---
@@ -302,6 +310,10 @@
 <p align="left">
   Solving Sudoku puzzles is one of my favorite ways to challenge my brain. I solve a few puzzles every day to improve my logical thinking skills.
 </p>
+
+<div align="left">
+  <img src="./assets/sudoku.gif" width="350"/>
+</div>
 <br/>
 
 ---
@@ -311,6 +323,10 @@
 <p align="right">
   I enjoy practicing calisthenics, focusing on bodyweight exercises that improve strength, flexibility, and endurance. It's a vital part of my fitness routine.
 </p>
+
+<div align="right">
+  <img src="./assets/pushup.gif" width="450"/>
+</div>
 <br/>
 
 ---
@@ -320,6 +336,10 @@
 <p align="left">
   I love using Photoshop for graphic design and creative projects. It allows me to bring my ideas to life through digital art and design.
 </p>  
+
+<div align="left">
+  <img src="./assets/photoshop.gif" width="400"/>
+</div>
 <br>
 
 </details>
