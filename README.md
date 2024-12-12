@@ -221,7 +221,7 @@
     <h3>GitHub Profile Stats 💻</h3>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=45% align="right" alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img width=45% align="right" alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&rank_icon=github&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </span>
   <br/>
