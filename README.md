@@ -260,7 +260,7 @@
 </p>
 
 <div align="left">
-  <img src="./assets/mtb.gif" width="450"/>
+  <img src="./assets/mtb.gif" width="400"/>
 </div>
 <br/>
 
@@ -273,7 +273,7 @@
 </p>
 
 <div align="right">
-  <img src="./assets/cube.gif" width="450"/>
+  <img src="./assets/cube.gif" width="400"/>
 </div>
 <br/>
 
@@ -286,7 +286,7 @@
 </p>
 
 <div align="left">
-  <img src="./assets/typing.gif" width="450"/>
+  <img src="./assets/typing.gif" width="400"/>
 </div>
 <br/>
 
@@ -325,7 +325,7 @@
 </p>
 
 <div align="right">
-  <img src="./assets/pushup.gif" width="450"/>
+  <img src="./assets/pushup.gif" width="400"/>
 </div>
 <br/>
 
@@ -338,7 +338,7 @@
 </p>  
 
 <div align="left">
-  <img src="./assets/photoshop.gif" width="400"/>
+  <img src="./assets/photoshop.gif" width="380"/>
 </div>
 <br>
 
