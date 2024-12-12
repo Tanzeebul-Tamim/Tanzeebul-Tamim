@@ -150,30 +150,6 @@
 
 ---
 <details> 
-  <summary align="center"><h3>👨‍💻 Who Am I Beyond the Code? 🚵‍♂️</h3></summary>
-
-⚡ **Beyond Coding:**
-  - <p><strong>I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</strong></p>
-  
-    I love mountain biking and performing MTB freestyle tricks. Check out my ***[YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)*** where I share my freestyles and tricks!
-
-    <img src="./assets/mtb.gif" width="250">
-    
-  - <p><strong>I'm a <em>Speed Cuber</em> 🧩🧊</strong></p>
-
-    I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, <br> and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
-  
-    <img align="left" src="./assets/cube.gif" width="250">
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-</details>
-
----
-<details> 
   <summary align="center"><h3>🔗 All My Projects 🗂️</h3></summary>
 
 ---
@@ -230,28 +206,28 @@
 
 ---
 <details> 
-  <summary align="center"><h3>📈 My Stats & Activity</h3></summary>
+  <summary align="center"><h3>📈 My Stats & Activity 📊</h3></summary>
   
   ---
 
   <span align="left">
   <h3>🔥 Streak Stats</h3>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanzeebul-Tamim's Github Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true&short_numbers=true"/>
+      <img width=45% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tanzeebul-Tamim's Github Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=tanzeebul-tamim&theme=react&border=61dafb&hide_border=true&short_numbers=true"/>
     </a>
   </span>
 
 <span align="right">
-    <h3>💻 GitHub Profile Stats</h3>
+    <h3>GitHub Profile Stats 💻</h3>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img width=45% align="right" alt="Tanzeebul-Tamim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanzeebul-tamim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </span>
   <br/>
    <h3>💡 My Language Usage at a Glance</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
+      <img heigth=35% src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeebul-tamim&theme=react&hide_border=true&show_icons=true&locale=en&layout=donut&langs_count=10" />
     </a>
   <br/>
 
@@ -260,7 +236,7 @@
   <br/>
 
 <div align="center"> 
-  <h3>⏳ My Productive Hours</h3>
+  <h3>⏳ My Productive Hours 🚀</h3>
   
   <div align="center">
     <img width="800em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeebul-tamim&theme=react&hide_border=true"/>
@@ -271,4 +247,79 @@
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzeebul-tamim&theme=react&utcOffset=8" alt="tanzeebul-tamim" />
   </div>
 </div>
+</details>
+
+---
+<details> 
+  <summary align="center"><h3>🚴‍♂️ Passions and Hobbies 🧩</h3></summary>
+
+### <div align="left">I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</div>
+
+<p align="left">
+  I love mountain biking and performing MTB freestyle tricks. Check out my <a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="_blank"><strong>YouTube Channel</strong></a> where I share my freestyles and tricks!
+</p>
+
+<div align="left">
+  <img src="./assets/mtb.gif" width="350"/>
+</div>
+<br/>
+
+---
+
+### <div align="right">🧩🧊 I'm a <em>Speed Cuber</em></div>
+
+<p align="right">
+  I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
+</p>
+
+<div align="right">
+  <img src="./assets/cube.gif" width="350"/>
+</div>
+<br/>
+
+---
+
+### <div align="left">I'm a <em>Touch Typist</em> ⌨️💨</div>
+
+<p align="left">
+  I take pride in my ability to type quickly and accurately. I consistently achieve typing speeds of 120-130 words per minute.
+</p>
+<br/>
+
+---
+
+### <div align="right">♟️🧠 I'm a <em>Chess Enthusiast</em></div>
+
+<p align="right">
+  I enjoy playing chess, solving chess puzzles, and continuously improving my skills. Chess helps sharpen my problem-solving abilities.
+</p>
+<br/>
+
+---
+
+### <div align="left">I'm a <em>Sudoku Solver</em> 🔢🧩</div>
+
+<p align="left">
+  Solving Sudoku puzzles is one of my favorite ways to challenge my brain. I solve a few puzzles every day to improve my logical thinking skills.
+</p>
+<br/>
+
+---
+
+### <div align="right">💪🏋️‍♂️ I'm a <em>Calisthenics Enthusiast</em></div>
+
+<p align="right">
+  I enjoy practicing calisthenics, focusing on bodyweight exercises that improve strength, flexibility, and endurance. It's a vital part of my fitness routine.
+</p>
+<br/>
+
+---
+
+### <div align="left">I Like to Create with <em>Photoshop</em> 🖼️💡 🖌️🎨</div>
+
+<p align="left">
+  I love using Photoshop for graphic design and creative projects. It allows me to bring my ideas to life through digital art and design.
+</p>  
+<br>
+
 </details>
