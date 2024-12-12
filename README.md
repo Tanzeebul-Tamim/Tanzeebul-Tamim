@@ -1,10 +1,18 @@
 ![logo](assets/Github-Banner.jpg)
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hey+Folks!+👋;I'm+Tanzeebul+Tamim;From+Bangladesh;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&size=26&letterSpacing=2px&duration=1800&pause=850&color=22D6F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things;Coding+is+my+art;And+GitHub+is+my+gallery" alt="Typing SVG" /></a>
+</p>
+
+<h3 align="right"><strong><em>Connect with me</em></strong></h3>
+
+<p align="right">
+<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="36" width="48" /></a>
+<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="36" width="48" /></a>
+<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="36" width="48" /></a>
+<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="36" width="48" /></a>
+<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="36" width="48" /></a>
+</p>
 
 <h2 align="center">About Me</h2>
 
@@ -17,7 +25,7 @@
   &nbsp;
   <a href="https://twitter.com/tanzeebul" target="blank"><img src="https://img.shields.io/twitter/follow/100?label=Follow-Me!&style=social" alt="Twitter Follow" /></a>
   &nbsp;
-    <a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" alt="tanzeebul" /></a>
+    <a ef="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" alt="tanzeebul" /></a>
 </p>
 
 <br>
@@ -42,17 +50,6 @@
     I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, <br> and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
   
     <img align="left" src="./assets/cube.gif" width="250">
-    <br>
-  <div align="right">
-    <h3 align="right"><strong><em>Connect with me</em></strong></h3>
-<p align="right">
-<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="36" width="48" /></a>
-<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="36" width="48" /></a>
-<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="36" width="48" /></a>
-<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="36" width="48" /></a>
-<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="36" width="48" /></a>
-</p>
-  </div>
 
 <br>
 <br>
@@ -150,6 +147,7 @@
     </a>
   </div>
 </p>
+
 </div>
 
 <br>
