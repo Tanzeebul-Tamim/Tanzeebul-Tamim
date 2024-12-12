@@ -3,19 +3,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&size=26&letterSpacing=2px&duration=1800&pause=850&color=22D6F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things;Coding+is+my+art;And+GitHub+is+my+gallery" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="right"><strong><em>Connect with me</em></strong></h3>
+<h2 align="center">About Me</h2>
 
-<p align="right">
-<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="36" width="48" /></a>
-<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="36" width="48" /></a>
-<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="36" width="48" /></a>
-<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="36" width="48" /></a>
-<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="36" width="48" /></a>
-</p>
+<h3 align="center">I’m a Computer Science and Engineering student  driven by an insatiable curiosity and a deep passion for learning and problem-solving. Whether it’s coding, tackling complex algorithms, solving a Rubik’s cube, or exploring large-scale projects, I thrive on challenges that push me to grow.</h3>
 
-<h1 align="center">About Me</h1>
-
-<h3 align="center">A passionate MERN Stack Maestro on a mission to turn your wildest web dreams into pixel-perfect reality. Think of me as your friendly neighborhood coder, weaving magic with MongoDB, Express.js, React, and Node.js.</h3>
+<br/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" target="blank"><img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" alt="Profile views" /></a>
@@ -29,7 +21,7 @@
 
 <br>
 
-<img align="right" width="450" src="./assets/man.gif">
+<img align="right" width="385" src="./assets/man.gif">
 
 - 🌱 **I’m Currently Learning** ***_<code><a href="https://expressjs.com/">Express.js</a></code> and <code><a href="https://www.java.com/en/">Java</a></code>_***
 
@@ -37,21 +29,18 @@
 
 - 📫 **Contact Me** ***tamim200091@gmail.com***
 
-- ⚡ **Beyond Coding:**
-  - <p><strong>I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</strong></p>
-  
-    I love mountain biking and performing MTB freestyle tricks. Check out my ***[YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)*** where I share my freestyles and tricks!
+<br/>
+<br/>
+<br/>
+<h3 align="left"><strong><em>Connect with me</em></strong></h3>
 
-    <img src="./assets/mtb.gif" width="250">
-    
-  - <p><strong>I'm a <em>Speed Cuber</em> 🧩🧊</strong></p>
-
-    I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, <br> and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
-  
-    <img align="left" src="./assets/cube.gif" width="250">
-
-<br>
-<br>
+<p align="left">
+<a href="https://twitter.com/tanzeebul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzeebul" height="36" width="48" /></a>
+<a href="https://linkedin.com/in/tanzeebul-tamim-679472280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzeebul-tamim-679472280" height="36" width="48" /></a>
+<a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanzeebul.tamim.1/" height="36" width="48" /></a>
+<a href="https://instagram.com/tanzeebul.tamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeebul.tamim" height="36" width="48" /></a>
+<a href="https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="+@tanzeebultamim9068" height="36" width="48" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">🖥️ Tech Stack ⚙️</h3>
@@ -122,12 +111,9 @@
   </a>
 </div>
 
-<br>
-<br>
-
 ---
 <details open> 
-  <summary align="center"><h2>📘 My Top Projects</h2></summary>
+  <summary align="center"><h3>📘 My Top Projects 📂</h3></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -157,18 +143,33 @@
     <a href="https://github.com/DenverCoder1/table2ascii">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=TS_Mongoose_E-commerce_API&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="table2ascii">
     </a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=CSE110-Fall-2023&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="latex-gboard-dictionary">
-    </a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=CSE111-Summer-Fall-2024&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="minimalistic-wallpaper-collection">
-    </a>
-    <a href="https://github.com/DenverCoder1/table2ascii">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=JAVA-Fundamentals&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="table2ascii">
-    </a>
   </p>
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img align alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+---
+<details> 
+  <summary align="center"><h3>👨‍💻 Who Am I Beyond the Code? 🚵‍♂️</h3></summary>
+
+⚡ **Beyond Coding:**
+  - <p><strong>I'm a <em>Mountain Bike Athlete</em> 🚵🚴‍♀️</strong></p>
+  
+    I love mountain biking and performing MTB freestyle tricks. Check out my ***[YouTube Channel](https://www.youtube.com/channel/UC2YN41MJxcYK7ZZRa9aR3-w)*** where I share my freestyles and tricks!
+
+    <img src="./assets/mtb.gif" width="250">
+    
+  - <p><strong>I'm a <em>Speed Cuber</em> 🧩🧊</strong></p>
+
+    I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, <br> and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
+  
+    <img align="left" src="./assets/cube.gif" width="250">
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 </details>
 
 ---
