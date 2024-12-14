@@ -231,7 +231,7 @@
     </a>
   <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages <br/> my public code consists of and doesn't reflect experience or skill level.
+  <b><em>Note:</em></b> Top languages is only a metric of the languages <br/> my public code consists of and doesn't <br/> reflect experience or skill level.
   <br/>
   <br/>
 
