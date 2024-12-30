@@ -160,9 +160,9 @@
 <br>
 <h2 style="font-weight: bold;">Project Status Overview</h2>
 
-- ✅ indicates a **_Completed Project_**
-- 🚧 indicates an ongoing project **_Under Active Development_**
-- ⏸️ indicates a project that is **_On Hold_** for now but will be **_Resumed Later_**
+- ✅ Indicates a **_Completed Project_**
+- 🚧 Indicates an ongoing project **_Under Active Development_**
+- ⏸️ Indicates a project that is **_On Hold_** for now but will be **_Resumed Later_**
 
 <br>
 
@@ -172,38 +172,37 @@ Although these repositories are primarily for personal learning purpose, <strong
 
 ### 1. University Coursework
   **(Includes Notes, Practice Problems, Assignments, Quizes, Solutions, Question Papers, and more.)**
-   - ***✅ [CSE 110 - Programming Language 1 (Python)](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):*** Introductory programming course focused on the **Fundamentals of Computation**.
-   - ***🚧 [CSE 111 - Programming Language 2 (Java)](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024):*** Introductory programming course emphasizing **Object Oriented Programming**.
+   - ✅ ***[CSE 110 - Programming Language 1 (Python)](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):*** Introductory programming course focused on the **Fundamentals of Computation**.
+   - 🚧 ***[CSE 111 - Programming Language 2 (Java)](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024):*** Introductory programming course emphasizing **Object Oriented Programming**.
 
 ### 2. Miscellaneous Projects
-   - ***🚧 [Assignment Compiler: File Merge Tool (Java)](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):*** Automates the creation of properly formatted coding assignment files for **CSE111** course.
-   - ***⏸️ [Age of The Evil Emperor (Java)](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):*** A captivating **text-based RPG** (Role-Playing Game) featuring an immersive adventure storyline.
+   - 🚧 ***[Assignment Compiler: File Merge Tool (Java)](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):*** Automates the creation of properly formatted coding assignment files for **CSE111** course.
+   - ⏸️ ***[Age of The Evil Emperor (Java)](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):*** A captivating **text-based RPG** (Role-Playing Game) featuring an immersive adventure storyline.
      
 ### 3. Web Development
    - ***PMBIA-Professional Mountain Biking Instructors' Association (MERN Stack, Javascript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
-     - ***✅ [Client End](https://github.com/Tanzeebul-Tamim/PMBIA-Client)***
-     - ***✅ [Server End](https://github.com/Tanzeebul-Tamim/PMBIA-Server)***
+     - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/PMBIA-Client)***
+     - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/PMBIA-Server)***
        
    - ***Fluffy Friends (MERN Stack, Javascript):*** A soft toy marketplace where users can browse, shop, and review products.
-     - ***✅ [Client End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client)***
-     - ***✅ [Server End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Server)***
+     - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client)***
+     - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Server)***
        
    - ***The Bengal Chefs' Pantry (MERN Stack, Javascript):*** Showcases top chef recipes and a curated selection of Bengali cuisine.
-     - ***✅ [Client End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client)***
-     - ***✅ [Server End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server)***
+     - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client)***
+     - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server)***
        
-   - ***⏸️ [UniMate-University Management System (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/UniMate-UMS)*** Showcases the core functionalities of a **university management system**.
-   - ***✅ [E-commerce API (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/TS_Mongoose_E-commerce_API)*** E-commerce backend with **Express**, **Mongoose** and **MongoDB**.
-   - ***✅ [Simple Tally Counter (MERN Stack, Typescript & Redux):](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter)*** A simple tally counter made by **Typescript-React** along with **Redux** for state management.
-   - ***✅ [Express TypeScript Mongoose Starter Pack (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/Express-Mongoose-TS-Starter_Pack)*** A **starter template** for **Express.JS** applications with 
-     **TypeScript** and **Mongoose** integration.
+   - ⏸️ ***[UniMate-University Management System (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/UniMate-UMS)*** Showcases the core functionalities of a **university management system**.
+   - ✅ ***[E-commerce API (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/TS_Mongoose_E-commerce_API)*** E-commerce backend with **Express**, **Mongoose** and **MongoDB**.
+   - ✅ ***[Simple Tally Counter (MERN Stack, Typescript & Redux):](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter)*** A simple tally counter made by **Typescript-React** along with **Redux** for state management.
+   - ✅ ***[Express TypeScript Mongoose Starter Pack (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/Express-Mongoose-TS-Starter_Pack)*** A **starter template** for **Express.JS** applications with **TypeScript** and **Mongoose** integration.
   
 ### 4. Personal Learning
   **(Includes Notes, Practice Problems, Basics, Fundamentals, and more.)**
-   - ***⏸️ [Java Fundamentals (Java):](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)*** Comprehensive notes, practice problems, and code exercises for mastering Core and Advanced **Java** concepts.
-   - ***✅ [Typescript Fundamentals (Typescript):](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
-   - ***✅ [Solving Basic Problems with JavaScript (Javascript):](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving)*** Fundamental **JavaScript problems** with detailed solutions.
-   - ***✅ [MongoDB Queries and Aggregation (MongoDB):](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes)*** Notes on **queries, Aggregation Pipelines**, and practical use cases for **MongoDB**.
+   - ⏸️ ***[Java Fundamentals (Java):](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)*** Comprehensive notes, practice problems, and code exercises for mastering Core and Advanced **Java** concepts.
+   - ✅ ***[Typescript Fundamentals (Typescript):](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
+   - ✅ ***[Solving Basic Problems with JavaScript (Javascript):](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving)*** Fundamental **JavaScript problems** with detailed solutions.
+   - ✅ ***[MongoDB Queries and Aggregation (MongoDB):](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes)*** Notes on **queries, Aggregation Pipelines**, and practical use cases for **MongoDB**.
 
 ---
 <p align="center">
