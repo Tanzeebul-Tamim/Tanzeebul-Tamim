@@ -5,7 +5,13 @@
 
 <h2 align="center">About Me</h2>
 
-<h3 align="center">I’m a Computer Science and Engineering student  driven by an insatiable curiosity and a deep passion for learning and problem-solving. Whether it’s coding, tackling complex algorithms, solving a Rubik’s cube, or exploring large-scale projects, I thrive on challenges that push me to grow.</h3>
+<h3 align="center">
+  I’m a Computer Science and Engineering student.
+  <br>
+  My journey is driven by an insatiable curiosity and a deep passion for learning and problem-solving.
+  <br>  
+  I thrive on challenges that push me to grow.
+</h3>
 
 <br/>
 
