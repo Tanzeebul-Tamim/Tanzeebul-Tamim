@@ -172,7 +172,7 @@
 
 <br>
 
-Although these repositories are primarily for personal learning purpose, <strong>constructive feedback</strong> is always appreciated.
+Although these repositories are primarily for personal learning purposes, <strong>constructive feedback</strong> is always appreciated.
 
 ---
 
@@ -205,10 +205,11 @@ Although these repositories are primarily for personal learning purpose, <strong
   
 ### 4. Personal Learning
   **(Includes Notes, Practice Problems, Basics, Fundamentals, and more.)**
-   - ⏸️ ***[Java Fundamentals (Java):](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)*** Comprehensive notes, practice problems, and code exercises for mastering Core and Advanced **Java** concepts.
-   - ✅ ***[Typescript Fundamentals (Typescript):](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
-   - ✅ ***[Solving Basic Problems with JavaScript (Javascript):](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving)*** Fundamental **JavaScript problems** with detailed solutions.
-   - ✅ ***[MongoDB Queries and Aggregation (MongoDB):](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes)*** Notes on **queries, Aggregation Pipelines**, and practical use cases for **MongoDB**.
+   - ⏸️ ***[Java Fundamentals:](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)*** Comprehensive notes, practice problems, and code exercises for mastering Core and Advanced **Java** concepts.
+   - ✅ ***[Typescript Fundamentals:](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
+   - ✅ ***[Solving Basic Problems with JavaScript:](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving)*** Fundamental **JavaScript problems** with detailed solutions.
+   - ✅ ***[MongoDB Queries and Aggregation:](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes)*** Notes on **queries, Aggregation Pipelines**, and practical use cases for **MongoDB**.
+   - ✅ ***[Linux Handbook:](https://github.com/Tanzeebul-Tamim/Linux-Handbook)*** Notes on **Linux Commands** – Includes explanations, examples, and practical use cases. 🚀
 
 ---
 <p align="center">
@@ -281,7 +282,7 @@ Although these repositories are primarily for personal learning purpose, <strong
 ### <div align="right">🧩🧊 I'm a <em>Speed Cuber</em></div>
 
 <p align="right">
-  I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds, and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
+  I'm also into speed cubing. I can solve the regular 3x3 cube in under 15 seconds and enjoy tackling a variety of other cubes, including all sizes from 2x2 up to 8x8.
 </p>
 
 <div align="right">
