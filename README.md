@@ -176,16 +176,16 @@ Although these repositories are primarily for personal learning purposes, <stron
 
 ---
 
-### 1. University Coursework
+### 1. 🎓 University Coursework 📚
   **(Includes Notes, Practice Problems, Assignments, Quizes, Solutions, Question Papers, and more.)**
    - ✅ ***[CSE 110 - Programming Language 1 (Python)](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):*** Introductory programming course focused on the **Fundamentals of Computation**.
    - ✅ ***[CSE 111 - Programming Language 2 (Java)](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024):*** Introductory programming course emphasizing **Object Oriented Programming**.
 
-### 2. Miscellaneous Projects
+### 2. 🧪 Miscellaneous Project 🛠️
    - 🚧 ***[Assignment Compiler: File Merge Tool (Java)](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):*** Automates the creation of properly formatted coding assignment files for **CSE111** course.
    - ⏸️ ***[Age of The Evil Emperor (Java)](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):*** A captivating **text-based RPG** (Role-Playing Game) featuring an immersive adventure storyline.
      
-### 3. Web Development
+### 3. 🌐 Web Development 💻
    - ***PMBIA-Professional Mountain Biking Instructors' Association (MERN Stack, Javascript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
      - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/PMBIA-Client)***
      - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/PMBIA-Server)***
@@ -203,7 +203,7 @@ Although these repositories are primarily for personal learning purposes, <stron
    - ✅ ***[Simple Tally Counter (MERN Stack, Typescript & Redux):](https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter)*** A simple tally counter made by **Typescript-React** along with **Redux** for state management.
    - ✅ ***[Express TypeScript Mongoose Starter Pack (MERN Stack, Typescript):](https://github.com/Tanzeebul-Tamim/Express-Mongoose-TS-Starter_Pack)*** A **starter template** for **Express.JS** applications with **TypeScript** and **Mongoose** integration.
   
-### 4. Personal Learning
+### 4. 🧠 Personal Learning 📖
   **(Includes Notes, Practice Problems, Basics, Fundamentals, and more.)**
    - ⏸️ ***[Java Fundamentals:](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)*** Comprehensive notes, practice problems, and code exercises for mastering Core and Advanced **Java** concepts.
    - ✅ ***[Typescript Fundamentals:](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
@@ -344,7 +344,7 @@ Although these repositories are primarily for personal learning purposes, <stron
 
 ---
 
-### <div align="left">I Like to Create with <em>Photoshop</em> 🖼️💡 🖌️🎨</div>
+### <div align="left">I Like to Create with <em>Photoshop</em> 🖼️💡🖌️🎨</div>
 
 <p align="left">
   I love using Photoshop for graphic design and creative projects. It allows me to bring my ideas to life through digital art and design.
@@ -354,5 +354,19 @@ Although these repositories are primarily for personal learning purposes, <stron
   <img src="./assets/photoshop.gif" width="380"/>
 </div>
 <br>
+
+---
+
+### <div align="right">🖋️📖 I'm a <em>Fountain Pen Enthusiast</em></div>
+
+<p align="right">
+  I enjoy writing with fountain pens. There's something deeply satisfying about the smooth ink flow and elegant nibs. My collection includes Lamy Safari, Pilot Metropolitan, Jinhao 92, Parker Vector, etc. Writing notes and solving problems with them makes studying even more enjoyable!
+</p>
+
+
+<div align="right">
+  <img src="./assets/fountain_pen.gif" width="400"/>
+</div>
+<br/>
 
 </details>
