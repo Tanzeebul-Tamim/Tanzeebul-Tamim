@@ -186,9 +186,9 @@ Although these repositories are primarily for personal learning purposes, <stron
    - ⏸️ ***[Age of The Evil Emperor (Java)](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):*** A captivating **text-based RPG** (Role-Playing Game) featuring an immersive adventure storyline.
      
 ### 3. 🌐 Web Development 💻
-   - ***PMBIA-Professional Mountain Biking Instructors' Association (MERN Stack, Javascript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
-     - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/PMBIA-Client)***
-     - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/PMBIA-Server)***
+   - ***'Professional Mountain Biking Coaching Network' (MERN Stack, Javascript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
+     - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/MTB-Coaching-Client)***
+     - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/MTB-Coaching-Server)***
        
    - ***Fluffy Friends (MERN Stack, Javascript):*** A soft toy marketplace where users can browse, shop, and review products.
      - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client)***
