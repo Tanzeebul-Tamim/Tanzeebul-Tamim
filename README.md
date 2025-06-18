@@ -119,7 +119,7 @@
 
 ---
 <details open> 
-  <summary align="center"><h3>📘 My Top Projects 📂</h3></summary>
+  <summary align="center"><h3>📘 My Best Projects 📂</h3></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Tanzeebul-Tamim/MTB-Coaching-Client">
