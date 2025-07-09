@@ -73,13 +73,7 @@
   </a>  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  </a>  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.impekable.com/wp-content/uploads/2023/05/Next_JS-500x500.png" alt="nextjs" width="40" height="40" title="Next.js"/>
-  </a>  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title="Redux"/>
-  </a>  
+  </a>   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
   </a>
@@ -99,10 +93,7 @@
   </a>  
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://static.cdnlogo.com/logos/n/68/npm.svg" alt="npm" width="40" height="40" title="npm"/>
-  </a>  
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://static-00.iconduck.com/assets.00/babel-icon-2048x2048-pbssk77l.png" alt="babel" width="40" height="40" title="Babel"/>
-  </a>  
+  </a>   
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" alt="Java" width="40" height="40" title="Java"/>
   </a>  
