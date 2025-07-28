@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" target="blank"><img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" alt="Profile views" /></a>
   &nbsp;
-  <a href="mailto:tamim200091@gmail.com"><img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=DB4437&logo=gmail&logoColor=ffffff" alt="Send Mail" /></a>
+  <a href="mailto:tanzeebul.tamim2003@gmail.com"><img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=DB4437&logo=gmail&logoColor=ffffff" alt="Send Mail" /></a>
   &nbsp;
   <a href="https://twitter.com/tanzeebul" target="blank"><img src="https://img.shields.io/twitter/follow/100?label=Follow-Me!&style=social" alt="Twitter Follow" /></a>
   &nbsp;
@@ -33,7 +33,7 @@
 
 - 👨‍💻 **Visit My Most Favorite Project** ***[Here](https://mtbcoachingnetwork.vercel.app/)***
 
-- 📫 **Contact Me** ***tamim200091@gmail.com***
+- 📫 **Contact Me:** [tanzeebul.tamim2003@gmail.com](mailto:tanzeebul.tamim2003@gmail.com)
 
 <br/>
 <br/>
@@ -95,7 +95,7 @@
     <img src="https://static.cdnlogo.com/logos/n/68/npm.svg" alt="npm" width="40" height="40" title="npm"/>
   </a>   
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" alt="Java" width="40" height="40" title="Java"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40" title="Java"/>
   </a>  
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
