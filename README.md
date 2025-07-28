@@ -22,7 +22,7 @@
   &nbsp;
   <a href="https://twitter.com/tanzeebul" target="blank"><img src="https://img.shields.io/twitter/follow/100?label=Follow-Me!&style=social" alt="Twitter Follow" /></a>
   &nbsp;
-    <a ef="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" alt="tanzeebul" /></a>
+    <a href="https://www.facebook.com/tanzeebul.tamim.1/" target="blank"><img src="https://img.shields.io/static/v1?message=Tanzeebul%20Tamim&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" alt="tanzeebul" /></a>
 </p>
 
 <br>
