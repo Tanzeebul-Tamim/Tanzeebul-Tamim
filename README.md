@@ -31,7 +31,7 @@
 
 - 🌱 **I’m Currently Learning** ***_<code><a href="https://expressjs.com/">Express.js</a></code> and <code><a href="https://www.java.com/en/">Java</a></code>_***
 
-- 👨‍💻 **Visit My Most Favorite Project** ***[Here](https://mtbcoachingnetwork.vercel.app/)***
+- 👨‍💻 **Visit my most impactful project: [MTB Coaching Network](https://mtbcoachingnetwork.vercel.app/)**
 
 - 📫 **Contact Me:** [tanzeebul.tamim2003@gmail.com](mailto:tanzeebul.tamim2003@gmail.com)
 
@@ -110,7 +110,7 @@
 
 ---
 <details open> 
-  <summary align="center"><h3>📘 My Best Projects 📂</h3></summary>
+  <summary align="center"><h3>📘 Portfolio Highlights 📂</h3></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Tanzeebul-Tamim/MTB-Coaching-Client">
@@ -119,8 +119,8 @@
     <a href="https://github.com/Tanzeebul-Tamim/MTB-Coaching-Server">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=MTB-Coaching-Server&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats">
     </a>
-    <a href="https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Tanzeebul-Tamim&repo=Age-of-The-Evil-Emperor&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges">
+       <a href="https://github.com/Tanzeebul-Tamim/UniMate-UMS">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Unimate-UMS&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="latex-gboard-dictionary">
     </a>
     <a href="https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Fluffy-Friends-Client&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-youtube-cards">
@@ -128,14 +128,14 @@
     <a href="https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Server">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Fluffy-Friends-Server&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="unedit-for-reddit">
     </a>
+        <a href="https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Simple-Tally-Counter&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="minimalistic-wallpaper-collection">
+    </a>
+        <a href="https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Tanzeebul-Tamim&repo=Age-of-The-Evil-Emperor&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="custom-icon-badges">
+    </a>
     <a href="https://github.com/Tanzeebul-Tamim/Assignment-Compiler">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Assignment-Compiler&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true" alt="unicode-formatter">
-    </a>
-    <a href="https://github.com/Tanzeebul-Tamim/UniMate-UMS">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Unimate-UMS&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="latex-gboard-dictionary">
-    </a>
-    <a href="https://github.com/Tanzeebul-Tamim/Simple-Tally-Counter">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=Simple-Tally-Counter&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="minimalistic-wallpaper-collection">
     </a>
     <a href="https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Tanzeebul-Tamim&repo=CSE111-Summer-Fall-2024&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="table2ascii">
