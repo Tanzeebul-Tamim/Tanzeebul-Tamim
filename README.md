@@ -53,7 +53,87 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,postman,git,github,ubuntu,linux,npm,java,py,vscode,ps,vercel,firebase,netlify,vite&perline=8&theme=dark" />
+  <!-- Row 1: Frontend Essentials -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+</a>
+<a href="https://vitejs.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" />
+</a>
+<br />
+
+<!-- Row 2: Backend & Databases -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
+</a>
+<a href="https://www.npmjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" />
+</a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+</a>
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" />
+</a>
+<br />
+
+<!-- Row 3: Tools & Environment -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" />
+</a>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" />
+</a>
+<a href="https://www.kernel.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+</a>
+<br />
+
 </div>
 
 ---
