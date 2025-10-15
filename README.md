@@ -1,6 +1,6 @@
 ![logo](banner/Github-Banner-2.jpg)
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&size=26&letterSpacing=2px&duration=1800&pause=850&color=22D6F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things;Coding+is+my+art;And+GitHub+is+my+gallery" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=35&letterSpacing=&duration=1800&pause=850&color=329EF7&background=FF000000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things;Coding+is+my+Art;And+GitHub+is+my+Gallery" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">About Me</h2>
@@ -53,59 +53,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/>
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
-  </a>  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://static.vecteezy.com/system/resources/previews/012/697/297/non_2x/3d-bootstrap-programming-framework-logo-free-png.png" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
-  </a>  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" title="Tailwind CSS"/>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  </a>  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-  </a>   
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
-  </a>
-  <br>
-  <br>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express.js" width="40" height="40" title="Express.js"/>
-  </a>  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclnX8t9HBA1P1pUP1-8uw9NGbJOy_IfLlVovdtBoB4IaenK4CaoTpy7uFDLY4IX0VOr8&usqp=CAU" alt="mongodb" width="40" height="40" title="MongoDB"/>
-  </a>  
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-  </a>  
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://static.cdnlogo.com/logos/n/68/npm.svg" alt="npm" width="40" height="40" title="npm"/>
-  </a>   
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40" title="Java"/>
-  </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  </a>  
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="40" height="40" title="Visual Studio Code"/>
-  </a>  
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin: 10px;">
-    <img src="https://w7.pngwing.com/pngs/207/785/png-transparent-photoshop-cc-hd-logo-thumbnail.png" alt="photoshop" width="40" height="40" title="Photoshop"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,express,mongodb,postman,git,github,ubuntu,linux,npm,java,py,vscode,ps,vercel,firebase,netlify,vite&perline=8&theme=dark" />
 </div>
 
 ---
