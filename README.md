@@ -1,4 +1,4 @@
-![logo](banner/Github-Banner-2.jpg)
+![logo](banner/Github-Banner-3.jpg)
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=35&letterSpacing=&duration=1800&pause=850&color=329EF7&background=FF000000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Always+Learning+New+Things;Coding+is+my+Art;And+GitHub+is+my+Gallery" alt="Typing SVG" /></a>
 </p>
