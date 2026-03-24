@@ -197,12 +197,13 @@ Although these repositories are primarily for personal learning purposes, <stron
 
 ### 1. 🎓 University Coursework 📚
   **(Includes Notes, Practice Problems, Assignments, Quizes, Solutions, Question Papers, and more.)**
-   - ✅ ***[CSE 110 - Programming Language 1 (Python)](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):*** Introductory programming course focused on the **Fundamentals of Computation**.
+   - ✅ ***[CSE 110 - Programming Language 1 (Jupyter Notebook-Python)](https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023):*** Introductory programming course focused on the **Fundamentals of Computation**.
    - ✅ ***[CSE 111 - Programming Language 2 (Java)](https://github.com/Tanzeebul-Tamim/CSE111-Summer-Fall-2024):*** Introductory programming course emphasizing **Object Oriented Programming**.
 
 ### 2. 🧪 Miscellaneous Project 🛠️
    - 🚧 ***[Assignment Compiler: File Merge Tool (Java)](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):*** Automates the creation of properly formatted coding assignment files for **CSE111** course.
    - ⏸️ ***[Age of The Evil Emperor (Java)](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):*** A captivating **text-based RPG** (Role-Playing Game) featuring an immersive adventure storyline.
+   - ✅ ***[TokenFarm-Automation (Python)](https://github.com/Tanzeebul-Tamim/TokenFarm-Automation):*** A tool that **automates logins across multiple accounts** to claim tokens and **sends status updates via Telegram**.
      
 ### 3. 🌐 Web Development 💻
    - ***'Professional Mountain Biking Coaching Network' (MERN Stack, Javascript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
