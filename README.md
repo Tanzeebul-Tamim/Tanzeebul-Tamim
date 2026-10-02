@@ -204,17 +204,18 @@ Although these repositories are primarily for personal learning purposes, <stron
    - 🚧 ***[Assignment Compiler: File Merge Tool (Java)](https://github.com/Tanzeebul-Tamim/Assignment-Compiler):*** Automates the creation of properly formatted coding assignment files for **CSE111** course.
    - ⏸️ ***[Age of The Evil Emperor (Java)](https://github.com/Tanzeebul-Tamim/Age-of-The-Evil-Emperor):*** A captivating **text-based RPG** (Role-Playing Game) featuring an immersive adventure storyline.
    - ✅ ***[TokenFarm-Automation (Python)](https://github.com/Tanzeebul-Tamim/TokenFarm-Automation):*** A tool that **automates logins across multiple accounts** to claim tokens and **sends status updates via Telegram**.
+   - ✅ ***[FB-Auto-Reply-Extension (JavaScript)](https://github.com/Tanzeebul-Tamim/FB-Auto-Reply-Extension):*** A lightweight browser extension that helps **automate text message responses** in Facebook Messenger using AI.
      
 ### 3. 🌐 Web Development 💻
-   - ***'Professional Mountain Biking Coaching Network' (MERN Stack, Javascript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
+   - ***'Professional Mountain Biking Coaching Network' (MERN Stack, JavaScript):*** A platform for mountain biking enthusiasts to connect, communicate, and learn.
      - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/MTB-Coaching-Client)***
      - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/MTB-Coaching-Server)***
        
-   - ***Fluffy Friends (MERN Stack, Javascript):*** A soft toy marketplace where users can browse, shop, and review products.
+   - ***Fluffy Friends (MERN Stack, JavaScript):*** A soft toy marketplace where users can browse, shop, and review products.
      - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Client)***
      - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/Fluffy-Friends-Server)***
        
-   - ***The Bengal Chefs' Pantry (MERN Stack, Javascript):*** Showcases top chef recipes and a curated selection of Bengali cuisine.
+   - ***The Bengal Chefs' Pantry (MERN Stack, JavaScript):*** Showcases top chef recipes and a curated selection of Bengali cuisine.
      - ✅ ***[Client End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client)***
      - ✅ ***[Server End](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server)***
        
@@ -226,7 +227,7 @@ Although these repositories are primarily for personal learning purposes, <stron
 ### 4. 🧠 Personal Learning 📖
   **(Includes Notes, Practice Problems, Basics, Fundamentals, and more.)**
    - ⏸️ ***[Java Fundamentals:](https://github.com/Tanzeebul-Tamim/JAVA-Fundamentals)*** Comprehensive notes, practice problems, and code exercises for mastering Core and Advanced **Java** concepts.
-   - ✅ ***[Typescript Fundamentals:](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
+   - ✅ ***[TypeScript Fundamentals:](https://github.com/Tanzeebul-Tamim/Typescript-Fundamentals)*** In-depth notes, practice problems, and exercises for learning Core and Advanced **TypeScript**.
    - ✅ ***[Solving Basic Problems with JavaScript:](https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving)*** Fundamental **JavaScript problems** with detailed solutions.
    - ✅ ***[MongoDB Queries and Aggregation:](https://github.com/Tanzeebul-Tamim/MongoDB-Queries-and-Aggregation-Notes)*** Notes on **queries, Aggregation Pipelines**, and practical use cases for **MongoDB**.
    - ✅ ***[Linux Handbook:](https://github.com/Tanzeebul-Tamim/Linux-Handbook)*** Notes on **Linux Commands** – Includes explanations, examples, and practical use cases. 🚀
