@@ -273,7 +273,7 @@ Although these repositories are primarily for personal learning purposes, <stron
   <h3>⏳ My Productive Hours 🚀</h3>
   
   <div align="center">
-    <img width="800em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanzeebul-tamim&theme=react&hide_border=true"/>
+    <img width="800em" src="https://github-act-graph.rodriaum.com/graph?username=tanzeebul-tamim&theme=react"/>
     <br>
     <br>
     <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzeebul-tamim&theme=react" alt="tanzeebul-tamim" />
