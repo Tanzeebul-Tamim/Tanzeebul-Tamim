@@ -16,8 +16,8 @@
 <br/>
 
 <p align="center">
-  <!-- <a href="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" target="blank"><img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" alt="Profile views" /></a>
-  &nbsp; -->
+  <a href="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" target="blank"><img src="https://komarev.com/ghpvc/?username=tanzeebul-tamim&label=Profile%20views&color=DB4437&style=flat" alt="Profile views" /></a>
+  &nbsp;
   <a href="mailto:tanzeebul.tamim2003@gmail.com"><img src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=DB4437&logo=gmail&logoColor=ffffff" alt="Send Mail" /></a>
   &nbsp;
   <a href="https://twitter.com/tanzeebul" target="blank"><img src="https://img.shields.io/twitter/follow/100?label=Follow-Me!&style=social" alt="Twitter Follow" /></a>
